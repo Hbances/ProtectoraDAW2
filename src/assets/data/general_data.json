@@ -1,0 +1,14 @@
+{
+    "general": [
+        {
+            "name": "HISTORIA",
+            "historia": ["somos una empresa", "muy buena", "todos"],
+            "carousel_imgs": ["assets/img/portada.jpg"],
+            "direccion": "nom",
+            "contacto": "664146904",
+            "localidad": "Lleida",
+            "main_image": "img_url",
+            "email" : "banceshenri2003@gmail.com"
+        }
+    ]
+}
